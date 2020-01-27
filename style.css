@@ -1,0 +1,25 @@
+.jumbotron{
+	background-color: SteelBlue;
+	border-radius:2.0rem;
+	color:white;
+}
+
+.navbar{
+	background-color:SteelBlue;
+}
+
+.navbar .nav-link{
+
+	color:white;
+}
+.nav-link:hover{
+	color:gray;
+}
+.navbar-brand{
+	color:black;
+}
+
+img{
+    width: 300px;
+    height: 400px;
+}
